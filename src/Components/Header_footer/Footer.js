@@ -3,7 +3,7 @@ import { CityLogo } from '../Ui/Icons';
 
 const footer = () => {
     return (
-        <footer className="bck_blue">
+        <footer className="bck_blue" style={{width: "1280px"}}>
             <div className="footer_logo">
                 <CityLogo
                     width="70px"
